@@ -41,3 +41,4 @@ https://github.dev/joschan21/casecobra/blob/master/src/app/page.tsx
 https://nextjs.org/docs/getting-started/installation
 https://docs.google.com/document/d/1lbkUfOAXg-cWyMUyAjP2dciBXki_ETRMbHd85CsBkco/edit
 https://tailwindcss.com/docs/height
+https://www.youtube.com/watch?v=SG82Aqcaaa0&t=10s&ab_channel=Joshtriedcoding 20:40
